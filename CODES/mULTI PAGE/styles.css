@@ -1,0 +1,27 @@
+#PageOne{
+    background-image: url("https://wallpaper.forfun.com/fetch/c5/c51afd78fc53dc7fd4e90dc1752e303c.jpeg");
+    background-size: cover; 
+}
+
+#PageTwo{
+    background-image: url("https://images4.alphacoders.com/973/973967.jpg");
+    background-size: cover; 
+}
+
+#main-topic{
+    text-align: center;
+    color: white;
+}
+
+h1{
+
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.centered{
+    text-align: center;
+}
